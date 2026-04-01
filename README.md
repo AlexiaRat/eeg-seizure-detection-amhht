@@ -36,28 +36,28 @@ Sliding-window analysis using theta/beta ratio evolution detects seizure onset w
 ## Sample Outputs
 
 ### Raw EEG Signals: Seizure vs Healthy
-![Raw Signals](screenshots/raw_signals.png)
+![Raw Signals](screenshots/02_raw_signals.png)
 
 ### CEEMDAN Decomposition into IMFs
-![CEEMDAN Decomposition](screenshots/ceemdan_decomposition.png)
+![CEEMDAN Decomposition](screenshots/04_CEEMDAN_decomposition.png)
 
 ### Hilbert-Huang Spectrogram: Normal vs Seizure
-![HH Spectrogram](screenshots/hh_spectrogram.png)
+![HH Spectrogram](screenshots/05_HH_spectrogram_comparison.png)
 
 ### Full Method Comparison (FFT vs DWT vs HHT vs AM-HHT)
-![Method Comparison](screenshots/method_comparison.png)
+![Method Comparison](screenshots/10_FINAL_*.png)
 
 ### HHT Standard vs AM-HHT (Feature Importance)
-![HHT vs AM-HHT](screenshots/hht_vs_amhht.png)
+![HHT vs AM-HHT](screenshots/08_comparison_*.png)
 
 ### SNR Analysis
-![SNR Analysis](screenshots/snr_analysis.png)
+![SNR Analysis](screenshots/04.5_snr_analysis.png)
 
 ### Seizure Transition Detection
-![Seizure Transition](screenshots/seizure_transition.png)
+![Seizure Transition](screenshots/07_seizure_transition_detection.png)
 
 ### Confusion Matrices
-![Confusion Matrices](screenshots/confusion_matrices.png)
+![Confusion Matrices](screenshots/06_confusion_matrices.png)
 
 ---
 
